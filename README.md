@@ -20,3 +20,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+![Untitled design](https://github.com/jdgiancola/work-day-planner/assets/135674863/5394307a-d7a4-4c72-9138-5d8f4afd44de)
